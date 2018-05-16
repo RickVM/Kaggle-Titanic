@@ -12,13 +12,13 @@ Together with the problem not being complex enough this is most likely also the 
 # Results
 
 ### Accuracy without hyperparameter tuning
-![alt text](https://github.com/RickVM/Kaggle-Titanic\images\accuracy_unoptimized.png "Accuracy unoptimized")
+![alt text](https://github.com/RickVM/Kaggle-Titanic/blob/master/images/accuracy_unoptimized.png "Accuracy unoptimized")
 
 ### Accuracy with hyperparameter tuning
-![alt text](https://github.com/RickVM/Kaggle-Titanic\images\accuracy_optimized.png "Accuracy optimized")
+![alt text](https://github.com/RickVM/Kaggle-Titanic/blob/master/Images/accuracy_optimized.png"Accuracy optimized")
 
 ### Train time
-![alt text](https://github.com/RickVM/Kaggle-Titanic\images\train_time.png "Train time")
+![alt text](https://github.com/RickVM/Kaggle-Titanic/blob/master/images/train_time.png "Train time")
 
 # Reflection
 
